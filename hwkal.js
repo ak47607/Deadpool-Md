@@ -5,11 +5,11 @@ const chalk = require('chalk')
 global.gr = 'https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39'
 global.ig = 'confronter._' // ubah aja
 global.email = 'confrontermfisa@gmail.com' //serah
-global.region = 'kenya' // serah
+global.region = 'india' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = '𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254111766934'] // ubah aja pake nomor lu
+global.owner = ['917872324809'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
 global.botname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕2' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕2' // ubah aja ini nama sticker
